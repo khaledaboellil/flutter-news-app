@@ -24,7 +24,7 @@ this Newsapp project that u can find the trend news of sport , science and  buss
 
 ## Search screen
 <img src="https://user-images.githubusercontent.com/63354831/207159436-3eaa757d-d2a8-4b99-a2f1-073c0cb3ed6d.jpg" width="200" height="400" />
-![1670880315853]()
+
 
 ## Web view
 <img src="https://user-images.githubusercontent.com/63354831/207159393-09a6dd14-6bde-49db-9b13-71c5fb14729c.jpg" width="200" height="400" />
